@@ -1,8 +1,6 @@
-#This tool is meant to make a quick export to Excel
-
-
 
 **RevitPythonShell export to Excel**
+#This script is meant to make a quick export to Excel from Revit
 
 
 **Start RevitPythonShell**
